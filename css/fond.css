@@ -1,0 +1,37 @@
+
+h1{
+    color:white
+}
+
+p.bigger
+{
+    font-size: 1.5em;
+    /* change la taille de police */
+    color: White;
+}
+
+
+p.mega
+{
+    font-size: 2em;
+    color: white
+}
+.image {
+    padding-left: 350px;
+    /* parmet de mettre une marge à gauche, padding-right (droite), padding-top (en haut), padding-bottom (en bat) */
+    padding-top: 13px;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: blue;
+}
+a:active {
+    color: pink;
+}
+a:visited {
+    color: white;
+}
